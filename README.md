@@ -1,0 +1,1 @@
+This a simple C++ program taking domain as Airline Management System compiling 10 different programs. It demonstrates concepts such as classes, inheritance, constructors, operator overloading, friend function, static function, encapsulation and virtual functions with switch case.
